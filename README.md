@@ -5,6 +5,9 @@
 - 📫 How to reach me 
 
 ![image](https://user-images.githubusercontent.com/88616188/147750075-2708bc16-785a-48cd-8c30-b47cb141e370.png)
+![image](https://user-images.githubusercontent.com/88616188/147750421-3c820188-b0e5-4328-95d8-13a2121ab842.png)
+![image](https://user-images.githubusercontent.com/88616188/147750456-959cfbb9-d037-43d6-918f-0539e498c4a3.png)
+
 
 
 <!---
