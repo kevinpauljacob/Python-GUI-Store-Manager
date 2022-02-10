@@ -1,7 +1,4 @@
-Hi!!!, This is a Python GUI - Store Manger Software made using tkinter and SQLite. It features a "Billing System" and a "GUI Databse Manager Interface".
-The application opens up with a "User Validation Window" and after the validation allows you to open up both the "Billing System and 
-"GUI Databse Manager Interface" applications. 
-The project has a few bugs but none that can interrupt the working of the application.
+Hi!!!, This is a Python GUI - Store Manager Software made using Tkinter and SQLite. It features a "Billing System" and a "GUI Database Manager Interface". The application opens up with a "User Validation Window" and after the validation allows you to open up both the "Billing System and "GUI Database Manager Interface" applications. The project has a few bugs but none that can interrupt the working of the application.
 
 !!!CAUTION!!! : The project requires a Python - SQLite Enviornment Set-up for running.Instructions follow!!!.
 
